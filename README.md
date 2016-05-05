@@ -1,0 +1,2 @@
+# shimajo
+proyecto de estadia 
